@@ -5,6 +5,8 @@
 ## :calling: About
 In this game you have to complete the picture of Merida character. This is a puzzle game where the puzzle pieces at the top change dynamically.
 
+## 🌏 <a href="https://mehtapugur.github.io/Merida-Puzzle/" target="_blank">DEMO LINK</a> 🌏
+
 ## :gear: Technologies
 
 - [HTML](https://www.w3schools.com/html/)
